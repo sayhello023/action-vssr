@@ -16,4 +16,3 @@ git clone -b master https://github.com/jerrykuku/luci-app-vssr package/luci-app-
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon-18.06
 git clone -b master https://github.com/jerrykuku/luci-app-argon-config package/luci-app-argon-config
 #git clone -b master https://github.com/jerrykuku/luci-app-jd-dailybonus package/luci-app-jd-dailybonus
-git clone -b master https://github.com/fw876/helloworld/xray package/xray
